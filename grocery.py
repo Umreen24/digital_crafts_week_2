@@ -40,4 +40,4 @@ while user_input != "q":
             for y in range(0, len(shopping_lists[x].grocery_items)):
                 print(f" Item: {shopping_lists[x].grocery_items[y].title} - Quantity: {shopping_lists[x].grocery_items[y].quantity} ")
                 
-    user_input = input("Press 1 to enter a store, press 2 to view stores, press 3 to add an item to a store, press 4 to view your stores and items, press q to quit! ") 
+    user_input = input("Press 1 to enter a store, press 2 to view stores, press 3 to add an item to a store, press 4 to view your stores and items, press q to quit! ")

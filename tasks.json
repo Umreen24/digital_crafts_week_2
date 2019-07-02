@@ -1,0 +1,14 @@
+[
+  {
+    "name": "mop",
+    "priority": "low"
+  },
+  {
+    "name": "laundry",
+    "priority": "medium"
+  },
+  {
+    "name": "powerwash",
+    "priority": "medium"
+  }
+]
